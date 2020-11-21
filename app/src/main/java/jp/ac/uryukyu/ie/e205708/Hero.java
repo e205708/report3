@@ -54,38 +54,66 @@ public class Hero {
         }
     }
 
-    //nameのgetter,setter
+    /**
+     * nameのgetter.
+     * @return オブジェクトのname
+     */
     public String getName(){
         return this.name;
     }
 
+    /**
+     * nameのsetter.
+     * @param _name 設定したいオブジェクトのname
+     */
     public void setName(String _name){
         this.name = _name;
     }
 
-    //hitPointのgetter,setter
+    /**
+     * hitPointのgetter.
+     * @return オブジェクトのhitPoint値
+     */
     public int getHitPoint(){
         return this.hitPoint;
     }
 
+    /**
+     * hitPointのsetter
+     * @param _hitPoint 設定したいオブジェクトのhitpoint
+     */
     public void setHitPoint(int _hitPoint){
         this.hitPoint = _hitPoint;
     }
 
-    //attackのgetter,setter
+    /**
+     * attackのgetter
+     * @return オブジェクトのattackの値
+     */
     public int getAttack(){
         return this.attack;
     }
 
+    /**
+     * attackのsetter
+     * @param _attack 設定したいオブジェクトのattack
+     */
     public void setAttack(int _attack){
         this.attack = _attack;
     }
 
-    //deadのgetter,setter
+    /**
+     * deadのgetter
+     * @return オブジェクトのdeadの値
+     */
     public boolean getDead(){
         return this.dead;
     }
 
+    /**
+     * deadのsetter
+     * @param _dead 設定したいオブジェクトのdead
+     */
     public void setDead(boolean _dead){
         this.dead = _dead;
     }
