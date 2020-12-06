@@ -1,4 +1,3 @@
-import jp.ac.uryukyu.Warrior;
 import jp.ac.uryukyu.ie.e205708.*;
 
 public class Main {

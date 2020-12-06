@@ -1,4 +1,4 @@
-package jp.ac.uryukyu;
+package jp.ac.uryukyu.ie.e205708;
 
 import jp.ac.uryukyu.ie.e205708.Hero;
 import jp.ac.uryukyu.ie.e205708.LivingThing;

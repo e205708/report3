@@ -2,8 +2,6 @@ package jp.ac.uryukyu.ie.e205708;
 
 import org.junit.jupiter.api.Test;
 
-import jp.ac.uryukyu.Warrior;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class HeroTest {
